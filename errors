@@ -1,0 +1,36 @@
+/:66: element input: validity error : ID searchtext already defined
+put type="submit" name="op" id="searchtext" value="Search"  class="form-submit" 
+                                                                               ^
+/:605: HTML parser error : htmlParseEntityRef: expecting ';'
+  <p><a href="/civicrm/profile/edit&gid=38&reset=1">Manage email newsletter subs
+                                       ^
+/:605: HTML parser error : htmlParseEntityRef: expecting ';'
+  <p><a href="/civicrm/profile/edit&gid=38&reset=1">Manage email newsletter subs
+                                                ^
+/:606: HTML parser error : Unexpected end tag : p
+iv class="profile-small">Greenweek, topic-based e-news, press releases</div></p>
+                                                                               ^
+/:618: HTML parser error : Unexpected end tag : p
+announcements, discussions, wiki page updates and events in your Groups</div></p
+                                                                               ^
+/:796: HTML parser error : htmlParseEntityRef: expecting ';'
+    <div class="content"><a id="second" href="/civicrm/profile/edit?reset=1&gid=
+                                                                               ^
+/:66: element input: validity error : ID searchtext already defined
+put type="submit" name="op" id="searchtext" value="Search"  class="form-submit" 
+                                                                               ^
+/:693: HTML parser error : htmlParseEntityRef: expecting ';'
+    <div class="content"><a id="second" href="/civicrm/profile/edit?reset=1&gid=
+                                                                               ^
+/:277: HTML parser error : Element script embeds close tag
+recentview-wrapper" style="display:none;">'+  cj(this).children('ul').html( ) +'
+                                                                               ^
+/:337: HTML parser error : error parsing attribute name
+ type="submit" name="submit" id="fulltext_submit" value="Go" class="form-submit"
+                                                                               ^
+/:389: HTML parser error : Unexpected end tag : li
+-link-home"><a href="/civicrm/dashboard?reset=1" title="Home">Home</a></li></li>
+                                                                               ^
+/:389: HTML parser error : htmlParseEntityRef: expecting ';'
+></li><li class="crm-New_Price_Set"><a href="/civicrm/admin/price?reset=1&action
+                                                                               ^

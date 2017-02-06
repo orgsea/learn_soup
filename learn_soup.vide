@@ -1,0 +1,31 @@
+--- !Project
+name: learn_soup
+author: James Hurford
+version: 0.1
+license: None
+builder: native
+builder-options: !NativeBuilderOptions
+  debug: false
+  thread: false
+  disable-assert: false
+  disable-checking: false
+  disable-non-null: false
+  save-temps: false
+  quiet: false
+  other: 
+executable-options:
+  program: 
+  arguments: 
+  working-dir: /home/terrasea/Projects/Vala/learn_soup/
+  environment: []
+files:
+- path: src/gui.vala
+- path: src/htmlform.vala
+- path: src/main.vala
+- path: src/config.vala
+- path: src/login.vala
+packages:
+- name: libsoup-2.4
+- name: libxml-2.0
+- name: mx-1.0
+vapi_dir: []
